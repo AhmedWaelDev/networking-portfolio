@@ -33,11 +33,7 @@ This lab demonstrates how to perform **initial device configuration** on Cisco r
 
 ## 🗺️ Network Topology
 
-```
-[PC]──[Console Cable]──[Router / Switch]
-  RS-232                Console Port
-  (Blue cable in Packet Tracer)
-```
+
 
 > 📸 See [`screenshots/topology.png`](screenshots/topology.png) for the full Packet Tracer topology.
 
