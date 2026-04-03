@@ -204,7 +204,6 @@ Router(config)# end     → jumps back to Privileged EXEC
 |:---|:---|
 | [`topology.png`](screenshots/topology.png) | Console cable connection topology |
 | [`terminal-session.png`](screenshots/terminal-session.png) | Terminal window open on PC |
-| [`hostname-config.png`](screenshots/hostname-config.png) | Hostname and password configuration |
 | [`show-run.png`](screenshots/show-run.png) | Final running configuration output |
 
 ---
