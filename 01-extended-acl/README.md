@@ -33,12 +33,6 @@ This lab demonstrates how to configure and apply **Extended ACLs** on Cisco rout
 
 ## 🗺️ Network Topology
 
-```
-[PC-A] ──── [SW1] ──── [R1] ──────── [R2] ──── [SW2] ──── [Server]
-              │                        │
-           VLAN 10                  VLAN 20
-        192.168.1.0/24           192.168.2.0/24
-```
 
 > 📸 See [`screenshots/topology.png`](screenshots/topology.png) for the full Packet Tracer topology.
 
@@ -172,7 +166,6 @@ Most commonly, Extended ACLs are applied **inbound** on the interface closest to
 | Screenshot | Description |
 |:---|:---|
 | [`topology.png`](screenshots/topology.png) | Full network topology |
-| [`acl-config.png`](screenshots/acl-config.png) | ACL configuration output |
 | [`denied-traffic.png`](screenshots/denied-traffic.png) | Telnet blocked by ACL |
 | [`permitted-traffic.png`](screenshots/permitted-traffic.png) | HTTP/Ping allowed through |
 
