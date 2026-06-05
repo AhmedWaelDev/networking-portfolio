@@ -22,4 +22,4 @@ covering core CCNA topics including routing, switching, security, and wireless.
 - Cisco IOS CLI
 
 ## 👤 Author
-**Ahmed Wael** — Networking enthusiast | CCNA learner
+**Ahmed Wael**
